@@ -1,0 +1,17 @@
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\ServerTest.exe
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\ServerTest.deps.json
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\ServerTest.runtimeconfig.json
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\ServerTest.dll
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\ServerTest.pdb
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.csproj.AssemblyReference.cache
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.AssemblyInfoInputs.cache
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.AssemblyInfo.cs
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.csproj.CopyComplete
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.dll
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\refint\ServerTest.dll
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.pdb
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ServerTest.genruntimeconfig.cache
+C:\Users\Brodeus6\Desktop\Unity_GitHUB\ServerTest\ServerTest\obj\Debug\net7.0\ref\ServerTest.dll
